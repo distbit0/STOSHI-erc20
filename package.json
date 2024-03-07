@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "@nomicfoundation/hardhat-verify": "^2.0.4",
+        "@openzeppelin/contracts": "4.9.2",
+        "dotenv": "^16.4.5",
+        "hardhat": "^2.21.0",
+        "solc": "^0.8.18"
+    }
+}
